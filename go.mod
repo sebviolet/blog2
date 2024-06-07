@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/sebviolet/blog2
 
 go 1.22.2
 
